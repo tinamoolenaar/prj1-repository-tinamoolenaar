@@ -1,7 +1,7 @@
 .my-class {
     color: #F30492;
     text-transform: capitalize;
-    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+  	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     font-weight: lighter;
 }
 #id {
