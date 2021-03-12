@@ -81,6 +81,7 @@ mymarges {
     padding-right: 5px;
     background-position: 5px 5px;
     border-radius: 20px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 }
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 #idmarges {
