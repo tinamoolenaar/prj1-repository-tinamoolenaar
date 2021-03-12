@@ -32,6 +32,11 @@
     border-color: #FADE91;
     margin-left: 5px;
     margin-right: 5px;
+    background-repeat: no-repeat;
+    background-clip: padding-box;
+    background-position: 2px 2px;
+    background-attachment: scroll;
+    background-origin: content-box;
 }
 .my-image {
 }
@@ -67,5 +72,30 @@ mymarges {
     padding-right: 5px;
 }
 .mymarges {
+    color: #FFFFFF;
+    background-image: url(../images/oranges.jpg);
+    text-align: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-position: 5px 5px;
+    border-radius: 20px;
 }
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
+#idmarges {
+}
+.idmarges {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.my-container div img {
+    clear: left;
+    color: #000000;
+}
+.my-containerdivimg {
+}
