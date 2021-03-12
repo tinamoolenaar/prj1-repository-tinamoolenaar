@@ -15,6 +15,10 @@
     background-color: #E8C2F3;
     background-image: url(../images/oranges.jpg);
     color: #E89C02;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 .my-container {
     -webkit-box-sizing: border-box;
@@ -26,8 +30,45 @@
     padding-bottom: 10px;
     border-style: solid;
     border-color: #FADE91;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 .my-image {
 }
 #id {
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+my-id {
+    background-image: url(../images/orangetree.jpg);
+}
+#idmarges {
+    margin-left: 5px;
+    margin-top: 0px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#idmarges {
+}
+#idmarges {
+}
+#idmarges {
+}
+#idmarges {
+}
+#idmarges {
+}
+#idmarges {
+}
+mymarges {
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.mymarges {
 }
